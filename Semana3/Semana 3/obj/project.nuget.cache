@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWn1e1X0xgY=",
+  "success": false,
+  "projectFilePath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.WindowsDesktop.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "filePath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "filePath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.App.Ref. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "filePath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.NETCore.App.Host.win-x64. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "projectPath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "filePath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C#\\Semana2\\Semana 3\\Semana 3.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\bin\Debug\Semana 2-Datos Primitivos.exe.config
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\bin\Debug\Semana 2-Datos Primitivos.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\bin\Debug\Semana 2-Datos Primitivos.pdb
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\obj\Debug\Semana 2-Datos Primitivos.csproj.AssemblyReference.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\obj\Debug\Semana 2-Datos Primitivos.csproj.CoreCompileInputs.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\obj\Debug\Semana 2-Datos Primitivos.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\obj\Debug\Semana 2-Datos Primitivos.pdb
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana2\Semana 2-Datos Primitivos\obj\Debug\Semana 2-Datos Primitivos.exe.config

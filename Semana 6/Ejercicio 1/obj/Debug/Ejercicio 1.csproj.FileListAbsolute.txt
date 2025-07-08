@@ -1,0 +1,7 @@
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C#\Semana 6\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

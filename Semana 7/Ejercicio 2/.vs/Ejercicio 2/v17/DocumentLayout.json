@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1326B1-EF3A-415A-B79B-CA4D1A6BDE02}|Ejercicio 2.csproj|d:\\uea\\3 semestre\\estructura de datos\\proyectos_c_sharp\\semana 7\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1326B1-EF3A-415A-B79B-CA4D1A6BDE02}|Ejercicio 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1326B1-EF3A-415A-B79B-CA4D1A6BDE02}|Ejercicio 2.csproj|D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\torresdehanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1326B1-EF3A-415A-B79B-CA4D1A6BDE02}|Ejercicio 2.csproj|solutionrelative:torresdehanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TorresDeHanoi.cs",
+              "DocumentMoniker": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\TorresDeHanoi.cs",
+              "RelativeDocumentMoniker": "TorresDeHanoi.cs",
+              "ToolTip": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\TorresDeHanoi.cs",
+              "RelativeToolTip": "TorresDeHanoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:51:19.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UEA\\3 SEMESTRE\\Estructura de Datos\\Proyectos_C_sharp\\Semana 7\\Ejercicio 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T21:50:35.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

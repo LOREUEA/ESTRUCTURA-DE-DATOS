@@ -1,0 +1,7 @@
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\bin\Debug\Diccionarios.exe.config
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\bin\Debug\Diccionarios.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\bin\Debug\Diccionarios.pdb
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\obj\Debug\Diccionarios.csproj.AssemblyReference.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\obj\Debug\Diccionarios.csproj.CoreCompileInputs.cache
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\obj\Debug\Diccionarios.exe
+D:\UEA\3 SEMESTRE\Estructura de Datos\Proyectos_C_sharp\Semana 11\Diccionarios\obj\Debug\Diccionarios.pdb
